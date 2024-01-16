@@ -48,5 +48,5 @@ Before running the bot, you need to set up your environment variables:
 ### Congrats!
 Start messaging your telebot, and share it with your care group members
 
-## Notes
-Currently, the code is not refined at all and there are lots of improvements to be made...in due time!
+## Future plans
+Currently, the code is not refined at all and there are lots of improvements to be made...in due time! At the same time, I am building a no-code platform for churches to design and implement effective telebots for church ministry apart from care groups (e.g. games, activities, admin, meetings, worship)!
